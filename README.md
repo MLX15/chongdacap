@@ -5,10 +5,6 @@ Tiện ích trình duyệt giúp định danh đa cấp!
 ![showcase](https://github.com/phamleduy04/chongdacap/blob/main/github/showcase.jpg?raw=true)
 ![showcase2](https://github.com/phamleduy04/chongdacap/blob/main/github/showcase2.png?raw=true)
 
-# Report đa cấp
-
-Nếu các bạn muốn report đa cấp có thể report qua [form](https://forms.gle/ZFtebEJUkFPydcDj9) này nhé.
-
 # Cách cài đặt
 Tải qua link ở [đây](https://chrome.google.com/webstore/detail/chongdacap/joiiiinfpglkgklohagocnhfphajbamm)
 
